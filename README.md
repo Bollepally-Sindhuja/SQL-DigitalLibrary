@@ -25,11 +25,7 @@ This project is a SQL-based system to manage a digital library.
 
 ### Overdue Books
 
-```
-
 ### Most Popular Category
-
-```
 
 ### Inactive Students
 
