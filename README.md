@@ -1,40 +1,37 @@
-# 📚 Digital Library Management System (SQL)
+# Digital Library Management System (SQL)
 
-## 📌 Overview
+## Overview
 
 This project is a SQL-based system to manage a digital library.
 
-## 🧱 Tables
+## Tables
 
 * Books
 * Students
 * IssuedBooks
 
-## 🔍 Features
+## Features
 
 * Track book borrowing
 * Identify overdue books (not returned within 14 days)
 * Find most popular categories
 * Detect inactive students (no activity in 3 years)
 
-## 🛠️ Technologies
+## Technologies
 
 * MySQL
 
-## 📊 Key Queries
+## Key Queries
 
 ### Overdue Books
-
 
 ```
 
 ### Most Popular Category
 
-
 ```
 
 ### Inactive Students
-
 
 ```
 
